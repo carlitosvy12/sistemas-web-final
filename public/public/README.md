@@ -16,7 +16,7 @@ Important: Since I don’t have much professional experience yet, all project an
 ## Screenshots
 
 ![Nav y Hero](sistemas web-final\public\public\Assets\about.png)
-![About](sistemas web-final\public/public/Assets/about.png)
+![About](C:\Users\Carlitos\sistemas web-final\public\public\Assets\about.png)
 ![Skills](sistemas web-final\public/public/Assets/skils.png)
 ![Experience](sistemas web-final\public/public/Assets/xp.png)
 ![Project 1](sistemas web-final\public/public/Assets/work1.png)
