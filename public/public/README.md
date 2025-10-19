@@ -15,18 +15,18 @@ Important: Since I don’t have much professional experience yet, all project an
 
 ## Screenshots
 
-![Nav y Hero](public/public/Assets/nav_hero.png)
-![About](public/public/Assets/about.png)
-![Skills](public/public/Assets/skils.png)
-![Experience](public/public/Assets/xp.png)
-![Project 1](public/public/Assets/work1.png)
-![Project 2](public/public/Assets/work2.png)
-![Project 3](public/public/Assets/work3.png)
-![Testimonials](public/public/Assets/testimonials.png)
-![Contact](public/public/Assets/contact_footer.png)
-![Mobile 1](public/public/Assets/phone1.png)
-![Mobile 2](public/public/Assets/phone2.png)
-![Mobile 3](public/public/Assets/phone3.png)
+![Nav y Hero](sistemas web-final\public\public\Assets\about.png)
+![About](sistemas web-final\public/public/Assets/about.png)
+![Skills](sistemas web-final\public/public/Assets/skils.png)
+![Experience](sistemas web-final\public/public/Assets/xp.png)
+![Project 1](sistemas web-final\public/public/Assets/work1.png)
+![Project 2](sistemas web-final\public/public/Assets/work2.png)
+![Project 3](sistemas web-final\public/public/Assets/work3.png)
+![Testimonials](sistemas web-final\public/public/Assets/testimonials.png)
+![Contact](sistemas web-final\public/public/Assets/contact_footer.png)
+![Mobile 1](sistemas web-final\public/public/Assets/phone1.png)
+![Mobile 2](sistemas web-final\public/public/Assets/phone2.png)
+![Mobile 3](sistemas web-final\public/public/Assets/phone3.png)
 
 Enlace github:https://github.com/carlitosvy12/sistemas-web-final
 Enlace Firebase:carlos-vicente.web.app
