@@ -15,19 +15,18 @@ Important: Since I don’t have much professional experience yet, all project an
 
 ## Screenshots
 
-![Nav y Hero](https://github.com/carlitosvy12/sistemas-web-final/blob/main/public/public/Assets/about.png))
-![About](C:\Users\Carlitos\sistemas web-final\public\public\Assets\about.png)
-![Skills](sistemas web-final\public/public/Assets/skils.png)
-![Experience](sistemas web-final\public/public/Assets/xp.png)
-![Project 1](sistemas web-final\public/public/Assets/work1.png)
-![Project 2](sistemas web-final\public/public/Assets/work2.png)
-![Project 3](sistemas web-final\public/public/Assets/work3.png)
-![Testimonials](sistemas web-final\public/public/Assets/testimonials.png)
-![Contact](sistemas web-final\public/public/Assets/contact_footer.png)
-![Mobile 1](sistemas web-final\public/public/Assets/phone1.png)
-![Mobile 2](sistemas web-final\public/public/Assets/phone2.png)
-![Mobile 3](sistemas web-final\public/public/Assets/phone3.png)
-
+![Nav y Hero](https://github.com/carlitosvy12/sistemas-web-final/blob/main/public/public/Assets/nav_hero.png)
+![About](https://github.com/carlitosvy12/sistemas-web-final/blob/main/public/public/Assets/about.png)
+![Skills](https://github.com/carlitosvy12/sistemas-web-final/blob/main/public/public/Assets/skils.png)
+![Experience](https://github.com/carlitosvy12/sistemas-web-final/blob/main/public/public/Assets/xp.png)
+![Project 1](https://github.com/carlitosvy12/sistemas-web-final/blob/main/public/public/Assets/work1.png)
+![Project 2](https://github.com/carlitosvy12/sistemas-web-final/blob/main/public/public/Assets/work2.png)
+![Project 3](https://github.com/carlitosvy12/sistemas-web-final/blob/main/public/public/Assets/work3.png)
+![Testimonials](https://github.com/carlitosvy12/sistemas-web-final/blob/main/public/public/Assets/testimonials.png)
+![Contact](https://github.com/carlitosvy12/sistemas-web-final/blob/main/public/public/Assets/contact%20footer.png)
+![Mobile 1](https://github.com/carlitosvy12/sistemas-web-final/blob/main/public/public/Assets/phone1.png)
+![Mobile 2](https://github.com/carlitosvy12/sistemas-web-final/blob/main/public/public/Assets/phone2.png)
+![Mobile 3](https://github.com/carlitosvy12/sistemas-web-final/blob/main/public/public/Assets/phone3.png)
 Enlace github:https://github.com/carlitosvy12/sistemas-web-final
 Enlace Firebase:carlos-vicente.web.app
 carlos-vicente.firebaseapp.com
